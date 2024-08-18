@@ -1,0 +1,59 @@
+[33mcommit a666ea23ef46fa9c69bf56c938a655cda5d8bf58[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Sat Aug 17 13:01:09 2024 +0200
+
+    Little improvement in board printing
+
+[33mcommit 0d0a8352e4f3b2037667c2e1852afdc6cb24fff3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Sat Aug 17 12:38:52 2024 +0200
+
+    ChessException and ChessPosition
+
+[33mcommit d49b1282af50c07ab88f9c655a5c6356e9102040[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Sat Aug 17 12:36:25 2024 +0200
+
+    ChessException and ChessPosition
+
+[33mcommit 1b52ac17586b76194c492b7be6af506a517d7c7c[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Fri Aug 16 11:44:45 2024 +0200
+
+    BoardException and defensive programming
+
+[33mcommit 477aa6922765df9588faa842957b427d70b0beaf[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Fri Aug 16 11:19:41 2024 +0200
+
+    Place pieces in the board
+
+[33mcommit 22a196690285c606dc110927c96ee923d7eb9600[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Thu Aug 15 16:24:49 2024 +0200
+
+    Chess layer and print the board
+
+[33mcommit bfacc6128384d6c3dc2b592dfa4185a3d892e662[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Thu Aug 15 12:45:02 2024 +0200
+
+    Starting to implement classes board and pieces
+
+[33mcommit f5bfa8c58cfabc7c8250497af14bbe3e41d94384[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Thu Aug 15 12:24:11 2024 +0200
+
+    first class: position
+
+[33mcommit cdf75a159f0830413f9133c3daa6c922fb94746b[m
+Author: Charles Rocha <charlesrocha87@gmail.com>
+Date:   Thu Aug 15 12:18:43 2024 +0200
+
+    project created
+
+[33mcommit c4226b24165b9e8a1cfd8dc91abbb233848232ad[m
+Author: charlesrocha87 <153649482+charlesrocha87@users.noreply.github.com>
+Date:   Thu Aug 15 12:13:08 2024 +0200
+
+    Initial commit
